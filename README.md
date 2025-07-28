@@ -24,8 +24,8 @@ AtliQ-BI-Reports
 ## 📈 Sales Report
 
 ### 🎯 Project Objectives:
-1. Build a detailed [Customer Performance Report](./Reports/Customer%20Performance_India.pdf)
-2. Analyze [Market Performance vs Target](./Reports/Market_Performance_vs_Target.pdf) for strategic decision-making
+1. Build a detailed [Customer Performance Report](https://github.com/JayashreeRaghav/Excel-Sales_Analytics/blob/main/Customer%20Performance_India.pdf)
+2. Analyze [Market Performance vs Target](https://github.com/JayashreeRaghav/Excel-Sales_Analytics/blob/main/Market_Performance_vs_Target.pdf) for strategic decision-making
 
 ### 🎯 Purpose of Sales Analytics:
 Enable businesses to track sales efficiency and overall customer contributions over time.
@@ -45,8 +45,8 @@ Enable businesses to track sales efficiency and overall customer contributions o
 ## 💰 Finance Report
 
 ### 🎯 Project Objectives:
-1. Develop [P&L Reports by Year](./Reports/P&L%20Year.pdf) and [by Month](./Reports/P&L%20Month.pdf)
-2. Analyze profitability across [different Markets](./Reports/P&L%20Market.pdf)
+1. Develop [P&L Reports by Year](https://github.com/JayashreeRaghav/Excel-Sales_Analytics/blob/main/P%26L_year.pdf) and [by Month](https://github.com/JayashreeRaghav/Excel-Sales_Analytics/blob/main/P%26L%20Month.pdf)
+2. Analyze profitability across [different Markets](https://github.com/JayashreeRaghav/Excel-Sales_Analytics/blob/main/P%26L%20Market.pdf)
 
 ### 🎯 Purpose of Financial Reporting:
 To assess business health, inform planning, and share performance with stakeholders
